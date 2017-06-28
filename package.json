@@ -9,7 +9,8 @@
   "author": "Tony Thomas",
   "license": "ISC",
   "dependencies": {
-      "express": "*",
-      "body-parser": "*"
+    "body-parser": "*",
+    "express": "*",
+    "pug": "^2.0.0-rc.2"
   }
 }
